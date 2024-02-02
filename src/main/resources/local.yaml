@@ -1,0 +1,8 @@
+anypoint:
+  username: "SelfLearn"
+  password: "LearnMule"
+  env: "Sandbox"
+  
+app:
+  name: "githubmule"
+  runtime: "4.4.0"
